@@ -1,0 +1,30 @@
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50px;
+
+    display: block;
+    margin:0px auto 0px auto;
+}
+
+h1{
+    color: black;
+}
+
+#judul{
+    color: rgb(0, 136, 255);
+}
+
+.tengah{
+    align-self: center;
+    color:blue;
+}
+
+h2,h3,h4{
+    color: rgb(2, 206, 94);
+}
+
+
+h2.tengah{
+    color: rgb(233, 167, 45);
+}

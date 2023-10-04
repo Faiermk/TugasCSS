@@ -1,0 +1,19 @@
+h1{
+    color: rgb(20, 220, 133);
+    font-family: Impact;
+    font-size: 50px;
+    text-align: center;
+}
+
+p{
+    text-indent: 30px;
+    line-height: 1.7;
+    font-size: 16px;
+    color: cadetblue;
+}
+
+li{
+    color: rgb(22, 61, 215);
+    font-size: 13px;
+    font-family: Georgia;
+}

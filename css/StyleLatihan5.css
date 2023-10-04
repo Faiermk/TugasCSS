@@ -1,0 +1,20 @@
+h1{
+    color: rgb(203, 98, 28) ;
+    font-family: Gill Sans;
+    font-size: 50px;
+    text-align: center;
+}
+
+p{
+    text-indent: 30px;
+    line-height: 1.7;
+    font-size: 16px;
+    color: rgb(65, 225, 137);
+    font-family: verdana;
+}
+
+li{
+    color: cornflowerblue;
+    font-size: 14px;
+    font-family: cursive;
+}
